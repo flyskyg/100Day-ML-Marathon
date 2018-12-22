@@ -8,6 +8,8 @@
 - Day02: EDA-1/讀取資料 EDA: Data summary
 - Day03: 3-1如何新建一個 dataframe? 3-2 如何讀取其他資料? (非 csv 的資料)
 - Day04: EDA: 欄位的資料類型介紹及處理
+- Day05: EDA: 資料分佈
+- Day06: EDA: Outlier 及處理
 ### 2. 資料科學特徵工程技術
 ### 3. 機器學習基礎模型建立
 ### 4. 機器學習調整參數
